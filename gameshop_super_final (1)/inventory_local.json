@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Pokémon Alpha Sapphire (Loose)",
+    "image": "netlify/images/gallery/0915BF92-4898-4CDB-8913-36E66C6CCBE0.jpeg",
+    "category": "Nintendo 3DS",
+    "price": 36.88,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Omega Ruby (Complete)",
+    "image": "netlify/images/gallery/15EC6FA7-5A21-4064-97DA-6DC4531656B2.jpeg",
+    "category": "Nintendo 3DS",
+    "price": 43.59,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Emerald Version (Loose)",
+    "image": "netlify/images/gallery/62DFD134-04B9-451C-BDA0-C16F0CF0FCEE.jpeg",
+    "category": "Game Boy Advance",
+    "price": 202.46,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Platinum Version (Loose)",
+    "image": "netlify/images/gallery/4489A3AB-0815-4783-8030-157AFEDCD950.jpeg",
+    "category": "Nintendo DS",
+    "price": 110.91,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Mystery Dungeon: Explorers of Darkness (Loose)",
+    "image": "netlify/images/gallery/A8E1596F-AA27-4507-9584-02CBB4072B45.jpeg",
+    "category": "Nintendo DS",
+    "price": 17.61,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky (Loose)",
+    "image": "netlify/images/gallery/B2510BE4-3D1D-424A-AE94-5F71A53FE927.jpeg",
+    "category": "Nintendo DS",
+    "price": 93.99,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Mystery Dungeon: Gates to Infinity (Complete)",
+    "image": "netlify/images/gallery/95D8E630-E42D-4A3C-A50B-4CAB1A79B84C.jpeg",
+    "category": "Nintendo 3DS",
+    "price": 28.2,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Super Pokémon Rumble (Complete)",
+    "image": "netlify/images/gallery/9B822AE3-3B08-482D-8181-E3599F5AC852.jpeg",
+    "category": "Nintendo 3DS",
+    "price": 15.34,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Y (Loose)",
+    "image": "placeholder_light_gray_block.png",
+    "category": "Nintendo 3DS",
+    "price": 28.19,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Ultra Sun (Loose)",
+    "image": "placeholder_light_gray_block.png",
+    "category": "Nintendo 3DS",
+    "price": 34.58,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Sword (Complete)",
+    "image": "netlify/images/gallery/A91C86FB-AF6B-4428-8E6C-5661B217C3EB.jpeg",
+    "category": "Nintendo Switch",
+    "price": 31.25,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Shining Pearl (Complete)",
+    "image": "netlify/images/products/IMG_6138.jpeg",
+    "category": "Nintendo Switch",
+    "price": 33.36,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Scarlet (Complete)",
+    "image": "netlify/images/products/IMG_6132.jpeg",
+    "category": "Nintendo Switch",
+    "price": 36.68,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Pokémon Mystery Dungeon: Rescue Team DX (Complete)",
+    "image": "netlify/images/products/IMG_6139.jpeg",
+    "category": "Nintendo Switch",
+    "price": 35.42,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition (Complete)",
+    "image": "placeholder_light_gray_block.png",
+    "category": "Nintendo Switch",
+    "price": 31.37,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Child of Light Ultimate Edition + Valiant Hearts: The Great War (Complete)",
+    "image": "netlify/images/gallery/43D74886-163F-479A-BA1C-799A52797C4D.jpeg",
+    "category": "Nintendo Switch",
+    "price": 50.98,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Luigi's Mansion 3 (Complete)",
+    "image": "netlify/images/gallery/4391E308-4F7D-411F-9FF1-0CF0B4C52B7F.jpeg",
+    "category": "Nintendo Switch",
+    "price": 29.6,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Fire Emblem: Three Houses (Complete)",
+    "image": "netlify/images/gallery/4AD15CC3-5245-418C-941A-9CF8BD1ACF04.jpeg",
+    "category": "Nintendo Switch",
+    "price": 38.9,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Xenoblade Chronicles 2: Torna – The Golden Country (Complete)",
+    "image": "netlify/images/gallery/4E3B6F6C-B22A-4302-8A5D-A5996DF42468.jpeg",
+    "category": "Nintendo Switch",
+    "price": 41.36,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Xenoblade Chronicles: Definitive Edition (Complete)",
+    "image": "netlify/images/gallery/C94EBFFD-15FD-4996-BF2B-036652171EE3.jpeg",
+    "category": "Nintendo Switch",
+    "price": 35.35,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "WRC 10 (Complete)",
+    "image": "netlify/images/gallery/7EC3A36A-0317-475A-B8F7-9CF4790E63E5.jpeg",
+    "category": "Nintendo Switch",
+    "price": 23.0,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "LEGO Marvel Super Heroes (Complete)",
+    "image": "netlify/images/gallery/8188CBB8-7463-4836-AC9F-7B32F273EFDA.jpeg",
+    "category": "Nintendo Switch",
+    "price": 18.91,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  },
+  {
+    "title": "Cars 3: Driven to Win (Complete)",
+    "image": "netlify/images/gallery/C49434DC-6C30-4AED-A6B7-F484BE089686.jpeg",
+    "category": "Nintendo Switch",
+    "price": 10.32,
+    "pricing_source": "pricecharting",
+    "item_kind": "game"
+  }
+]

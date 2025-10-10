@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galerij | GameShop Enter</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="main.js"></script>
+</head>
+<body>
+  <!-- Navigatie -->
+  <header class="site-header">
+    <nav class="navbar container">
+      <a href="index.html" class="brand-area">
+        <img src="netlify/images/logo.png" alt="GameShop Enter logo" class="logo">
+        <span class="brand-text">GameShop&nbsp;Enter</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Producten</a></li>
+        <!-- Galerij verwijderd -->
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <div class="cart-link">
+        <a href="cart.html" title="Winkelwagen"><span class="cart-icon">🛒</span> <span id="cartCount">0</span></a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Galerij</h2>
+    <p class="intro">Alle producten staan nu op de <a href="products.html">productenpagina</a>. Bekijk daar onze volledige collectie games, consoles en accessoires.</p>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <div class="footer-column">
+        <h4>Over GameShop&nbsp;Enter</h4>
+        <p>Wij zijn gespecialiseerd in tweedehands games en consoles. Met meer dan 10 jaar ervaring zorgen wij ervoor dat jouw aankoop als nieuw aanvoelt.</p>
+      </div>
+      <div class="footer-column">
+        <h4>Contact</h4>
+        <p>Email: <a href="mailto:gameshopenter@gmail.com">gameshopenter@gmail.com</a></p>
+        <p>Verzending: Wij verzenden elke bestelling zorgvuldig verpakt. Afhalen is niet mogelijk.</p>
+      </div>
+      <div class="footer-column">
+        <h4>Volg ons</h4>
+        <p>
+          <a href="#">Instagram</a><br>
+          <a href="#">Facebook</a><br>
+          <a href="#">Twitter</a>
+        </p>
+      </div>
+    </div>
+    <p class="copyright">©&nbsp;2025&nbsp;GameShop&nbsp;Enter – Alle rechten voorbehouden.</p>
+  </footer>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (window.GSE && GSE.updateCartCount) {
+        GSE.updateCartCount();
+      }
+    });
+  </script>
+</body>
+</html>

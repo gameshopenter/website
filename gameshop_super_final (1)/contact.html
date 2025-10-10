@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | GameShop Enter</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="main.js"></script>
+</head>
+<body>
+  <!-- Navigatie -->
+  <header class="site-header">
+    <nav class="navbar container">
+      <a href="index.html" class="brand-area">
+        <img src="netlify/images/logo.png" alt="GameShop Enter logo" class="logo">
+        <span class="brand-text">GameShop&nbsp;Enter</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Producten</a></li>
+        <!-- Galerij verwijderd -->
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+      <div class="cart-link">
+        <a href="cart.html" title="Winkelwagen"><span class="cart-icon">🛒</span> <span id="cartCount">0</span></a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Contact inhoud -->
+  <main class="contact-page container">
+    <h2>Contact</h2>
+    <div class="contact-wrapper">
+      <div class="contact-info">
+        <p>Heb je vragen of opmerkingen? Neem gerust contact met ons op.</p>
+        <ul>
+          <li><strong>Email:</strong> <a href="mailto:gameshopenter@gmail.com">gameshopenter@gmail.com</a></li>
+          <li><strong>Verzending:</strong> Wij verzenden elke bestelling zorgvuldig verpakt. Afhalen is niet mogelijk.</li>
+        </ul>
+        <p>We beantwoorden je bericht doorgaans binnen één werkdag.</p>
+      </div>
+      <div class="contact-form">
+        <form id="contactForm">
+          <label for="name">Naam*</label>
+          <input type="text" id="name" name="name" required placeholder="Jouw naam">
+          <label for="email">E‑mail*</label>
+          <input type="email" id="email" name="email" required placeholder="jij@example.com">
+          <label for="message">Bericht*</label>
+          <textarea id="message" name="message" rows="5" required placeholder="Waar kunnen we je mee helpen?"></textarea>
+          <button type="submit" class="btn">Verstuur bericht</button>
+        </form>
+        <p id="contactStatus" class="status-message" aria-live="polite"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <div class="footer-column">
+        <h4>Over GameShop Enter</h4>
+        <p>Gespecialiseerd in tweedehands games en consoles. Met zorg geselecteerd en uitgebreid getest.</p>
+      </div>
+      <div class="footer-column">
+        <h4>Contact</h4>
+        <p>Email: <a href="mailto:gameshopenter@gmail.com">gameshopenter@gmail.com</a></p>
+        <p>Verzending: Wij verzenden elke bestelling zorgvuldig verpakt. Afhalen is niet mogelijk.</p>
+      </div>
+      <div class="footer-column">
+        <h4>Volg ons</h4>
+        <p>
+          <a href="#">Instagram</a><br>
+          <a href="#">Facebook</a><br>
+          <a href="#">Twitter</a>
+        </p>
+      </div>
+    </div>
+    <p class="copyright">© 2025 GameShop Enter – Alle rechten voorbehouden.</p>
+  </footer>
+</body>
+</html>
